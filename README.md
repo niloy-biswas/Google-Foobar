@@ -16,7 +16,7 @@ I tried explore different type to solutions. The final submission file is commen
 ### Level 1
 - [Braille](https://github.com/niloy-biswas/Google-Foobar/blob/master/Level%201/Braille.ipynb)
 
-If you successfuly completed Level one then ~ 
+If you successfully completed Level one then ~ 
 
 ![Level 1 Win](https://github.com/niloy-biswas/Google-Foobar/blob/master/images/Foobar-Level-1.gif)
 
