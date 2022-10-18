@@ -1,7 +1,7 @@
 # Google-Foobar
 
 
-![google-foobar](https://user-images.githubusercontent.com/7104017/39340149-5e76f134-4981-11e8-92e7-8fe34f2080bb.png)
+![google-foobar](https://github.com/niloy-biswas/Google-Foobar/blob/master/images/Foobar_L1_Completed.png)
 
 [Google Foo Bar](http://foobar.withgoogle.com) is Google's secret recruiting process embedded within their search engine. There are 5 levels, each with a different number of challenges that follow a story.
 
@@ -11,6 +11,10 @@ Inside each level is a challenge folder with a problem file describing the chall
 
 ### Level 1
 - [Braille](https://github.com/niloy-biswas/Google-Foobar/blob/master/Level%201/Braille.ipynb)
+
+If you successfuly completed Level one then ~ 
+
+![Level 1 Win](https://github.com/niloy-biswas/Google-Foobar/blob/master/images/Foobar-Level-1.gif)
 
 ### Level 2
 - [Please Pass the Coded Messages](https://github.com/niloy-biswas/Google-Foobar/blob/master/Level%202/Please%20Pass%20the%20Coded%20Messages.ipynb)
@@ -33,4 +37,4 @@ You'll see a encrypted message only for you. That is `base64` encrypted.
 Use  - [Encryption](https://github.com/niloy-biswas/Google-Foobar/blob/master/Encryption.ipynb) for Decrypting the message.
 
 
-![Foobar - Win](https://www.loom.com/share/e4472361438c4a518366553fe53c7a82)
+![Level 1 Win](https://github.com/niloy-biswas/Google-Foobar/blob/master/images/Foobar-win.gif)
