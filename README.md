@@ -3,7 +3,7 @@
 
 ![google-foobar](https://github.com/niloy-biswas/Google-Foobar/blob/master/images/Foobar_L1_Completed.png)
 
-[Google Foo Bar](http://foobar.withgoogle.com) is Google's secret recruiting process embedded within their search engine. 
+[Google Foobar](http://foobar.withgoogle.com) is Google's secret recruiting process embedded within their search engine. 
 
 Though I got the invitation after completing the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics). They show a encrypted message to entar the challenge.
 There are 5 levels, each with a different number of challenges that follow a story.
