@@ -3,11 +3,15 @@
 
 ![google-foobar](https://github.com/niloy-biswas/Google-Foobar/blob/master/images/Foobar_L1_Completed.png)
 
-[Google Foo Bar](http://foobar.withgoogle.com) is Google's secret recruiting process embedded within their search engine. There are 5 levels, each with a different number of challenges that follow a story.
+[Google Foo Bar](http://foobar.withgoogle.com) is Google's secret recruiting process embedded within their search engine. 
+
+Though I got the invitation after completing the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics). They show a encrypted message to entar the challenge.
+There are 5 levels, each with a different number of challenges that follow a story.
 
 Checkout [journal.md](https://github.com/niloy-biswas/Google-Foobar/blob/master/journal.md) for the overall story with each level. 
 
-Inside each level is a challenge folder with a problem file describing the challenge and constraints, and my solution to the challenge.
+Inside each level is a challenge folder with a .ipynb file describing the challenge and constraints, and also my solution to the challenge.
+I tried explore different type to solutions. The final submission file is commented in the code block.
 
 ### Level 1
 - [Braille](https://github.com/niloy-biswas/Google-Foobar/blob/master/Level%201/Braille.ipynb)
