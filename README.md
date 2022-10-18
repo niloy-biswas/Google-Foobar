@@ -5,7 +5,7 @@
 
 [Google Foobar](http://foobar.withgoogle.com) is Google's secret recruiting process embedded within their search engine. 
 
-Though I got the invitation after completing the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics). They show a encrypted message to entar the challenge.
+Though I got the invitation after completing the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics). They show an encrypted message to enter the challenge.
 There are 5 levels, each with a different number of challenges that follow a story.
 
 Checkout [journal.md](https://github.com/niloy-biswas/Google-Foobar/blob/master/journal.md) for the overall story with each level. 
@@ -41,4 +41,4 @@ You'll see a encrypted message only for you. That is `base64` encrypted.
 Use  - [Encryption](https://github.com/niloy-biswas/Google-Foobar/blob/master/Encryption.ipynb) for Decrypting the message.
 
 
-![Level 1 Win](https://github.com/niloy-biswas/Google-Foobar/blob/master/images/Foobar-win.gif)
+![Foobar Win](https://github.com/niloy-biswas/Google-Foobar/blob/master/images/Foobar-win.gif)
